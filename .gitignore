@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+data/*.csv
+data/*.json
+data/*.gz
+spark-warehouse/
+metastore_db/
+derby.log
+jdk21/
+jdk21.zip
+index.html
